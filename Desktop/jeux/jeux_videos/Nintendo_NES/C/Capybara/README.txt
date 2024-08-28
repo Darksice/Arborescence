@@ -2,6 +2,7 @@ Pas mal !
 
 On commence ? Parfait !
 
-Il va falloir retrouver un mot de passe dans le fichier informations.txt
+La suite des informations sont dans le ZIP !
 
-Le but n est pas de tout lire (meme si c est super interessant) !
+D'ailleurs, je ne sais pas si tu le sais, mais en apprendre plus sur les Capybaras résoud tous tes problèmes !
+
